@@ -1,0 +1,20 @@
+{
+  "name": "trialscout-infra",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "synth": "cdk synth",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.274.0",
+    "constructs": "^10.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "aws-cdk": "^2.1146.1",
+    "tsx": "^4.19.0",
+    "typescript": "~5.9.0"
+  }
+}

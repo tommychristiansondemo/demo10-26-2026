@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TrialScout Insights</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="logo" aria-hidden="true">TI</span><div><strong>TrialScout Insights</strong><small>How the class demo is designed, deployed and running</small></div></div>
+    <a class="ext" id="mainLink" href="https://www.awsteach.com/" target="_blank" rel="noopener">Open TrialScout &#8599;</a>
+    <div class="user" id="user" hidden><span id="userName"></span><button class="ghost" id="signOut" type="button">Sign out</button></div>
+  </header>
+
+  <main id="login" class="login" hidden>
+    <h1>TrialScout Insights</h1>
+    <p>A read-only window into the TrialScout deployment: architecture, every AWS resource, where the data comes from, live logs and metrics,
+      the prompts and reasoning of every LLM call, the source code, and a chatbot that answers questions about all of it.</p>
+    <p>Use the same account as TrialScout (accounts are shared between the two apps), or create one here. Every signed-in student sees
+      the inference and reasoning logs of <b>all</b> students, from both apps.</p>
+    <form id="authForm" class="authform" autocomplete="on">
+      <label>Username <input id="authUser" name="username" autocomplete="username" required minlength="3" maxlength="32" pattern="[A-Za-z0-9_.\-]{3,32}" title="3-32 letters, digits, . _ -"></label>
+      <label>Password <input id="authPass" name="password" type="password" autocomplete="current-password" required minlength="6" title="At least 6 characters"></label>
+      <fieldset class="roles"><legend>Role, if you are creating a new account</legend>
+        <label><input type="radio" name="role" value="analyst" checked> <b>analyst</b>: all six TrialScout tools (adds enrollment forecasts, compliance checks, amendment summaries)</label>
+        <label><input type="radio" name="role" value="reader"> <b>reader</b>: search-only tools (studies, site KPIs, documents)</label>
+      </fieldset>
+      <div class="row"><button type="submit" id="loginBtn">Sign in</button><button type="button" class="ghost" id="signupBtn">Create account</button></div>
+    </form>
+    <p class="hint">No e-mail or MFA needed. Your role is fixed when the account is created: to try the other role, create a second account. Or <a href="#" id="signIn">use the Cognito hosted sign-in page</a>.</p>
+    <p class="err" id="loginError" hidden></p>
+    <p class="ok" id="loginInfo" hidden></p>
+  </main>
+
+  <main id="app" class="app" hidden>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="ask" aria-selected="true">Ask</button>
+      <button role="tab" data-tab="overview">Overview</button>
+      <button role="tab" data-tab="llm">LLM reasoning</button>
+      <button role="tab" data-tab="logs">Logs</button>
+      <button role="tab" data-tab="metrics">Metrics</button>
+      <button role="tab" data-tab="knowledge">Knowledge file</button>
+      <button role="tab" data-tab="source">Source</button>
+    </nav>
+
+    <section class="panel chat" data-panel="ask">
+      <div id="messages" class="messages" aria-live="polite"></div>
+      <div id="suggestions" class="suggestions"></div>
+      <form id="composer" class="composer">
+        <textarea id="prompt" rows="2" maxlength="4000" placeholder="Ask anything about how TrialScout or this Insights app is built and running..." required></textarea>
+        <div class="col"><button id="send" type="submit">Send</button><button class="ghost" id="newChat" type="button">New chat</button></div>
+      </form>
+    </section>
+
+    <section class="panel" data-panel="overview" hidden><div id="overview" class="pad">Loading…</div></section>
+
+    <section class="panel" data-panel="llm" hidden>
+      <form class="filters" id="llmForm">
+        <label>App <select name="app"><option value="all">all</option><option>trialscout-agent</option><option>insights-chatbot</option></select></label>
+        <label>Window <select name="minutes"><option value="60">1 h</option><option value="360" selected>6 h</option><option value="1440">24 h</option><option value="10080">7 d</option></select></label>
+        <label>Student <input name="user" placeholder="all students" maxlength="32"></label>
+        <label><input type="checkbox" name="system" value="1"> system prompt</label>
+        <button type="submit">Load</button>
+      </form>
+      <div id="llm" class="pad">Every Claude call made by any student, in TrialScout or in this app, is captured by Bedrock model invocation logging. Choose a window (and optionally a student) and press Load.</div>
+    </section>
+
+    <section class="panel" data-panel="logs" hidden>
+      <form class="filters" id="logsForm">
+        <label>Source <select name="source" id="logSource"></select></label>
+        <label>Window <select name="minutes"><option value="15">15 min</option><option value="60" selected>1 h</option><option value="1440">24 h</option><option value="10080">7 d</option></select></label>
+        <label>Filter <input name="filter" placeholder='e.g. invoke_done or ERROR' maxlength="200"></label>
+        <button type="submit">Load</button>
+      </form>
+      <div id="logs" class="pad"></div>
+    </section>
+
+    <section class="panel" data-panel="metrics" hidden>
+      <form class="filters" id="metricsForm">
+        <label>Window <select name="hours"><option value="3">3 h</option><option value="24" selected>24 h</option><option value="168">7 d</option></select></label>
+        <button type="submit">Load</button>
+      </form>
+      <div id="metrics" class="pad"></div>
+    </section>
+
+    <section class="panel" data-panel="knowledge" hidden><div id="knowledge" class="pad md">Loading…</div></section>
+
+    <section class="panel" data-panel="source" hidden>
+      <div class="split"><ul id="fileList" class="files"></ul><pre id="fileView" class="code">Select a file.</pre></div>
+    </section>
+  </main>
+</body>
+</html>

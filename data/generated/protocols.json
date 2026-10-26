@@ -1,0 +1,243 @@
+[
+ {
+  "protocol_id": "PRT-TS-001",
+  "study_id": "TS-001",
+  "versions": [
+   {
+    "protocol_id": "PRT-TS-001",
+    "study_id": "TS-001",
+    "title": "A Phase 3 study of TSX-101 in Metastatic breast cancer",
+    "phase": "Phase 3",
+    "visit_window_days": 7,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "1.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": true,
+    "sample_size": 908,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Metastatic breast cancer at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "1.0",
+    "effective": "2025-11-01"
+   },
+   {
+    "protocol_id": "PRT-TS-001",
+    "study_id": "TS-001",
+    "title": "A Phase 3 study of TSX-101 in Metastatic breast cancer",
+    "phase": "Phase 3",
+    "visit_window_days": 10,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "2.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": true,
+    "sample_size": 1044,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Metastatic breast cancer at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "2.0",
+    "effective": "2026-07-15"
+   }
+  ]
+ },
+ {
+  "protocol_id": "PRT-TS-003",
+  "study_id": "TS-003",
+  "versions": [
+   {
+    "protocol_id": "PRT-TS-003",
+    "study_id": "TS-003",
+    "title": "A Phase 2 study of TSX-103 in Migraine prevention",
+    "phase": "Phase 2",
+    "visit_window_days": 7,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 48,
+    "consent_version": "1.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 148,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Migraine prevention at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "1.0",
+    "effective": "2025-11-01"
+   },
+   {
+    "protocol_id": "PRT-TS-003",
+    "study_id": "TS-003",
+    "title": "A Phase 2 study of TSX-103 in Migraine prevention",
+    "phase": "Phase 2",
+    "visit_window_days": 7,
+    "screening_period_days": 35,
+    "sae_reporting_hours": 24,
+    "consent_version": "2.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 148,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Migraine prevention at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "2.0",
+    "effective": "2026-07-15"
+   }
+  ]
+ },
+ {
+  "protocol_id": "PRT-TS-007",
+  "study_id": "TS-007",
+  "versions": [
+   {
+    "protocol_id": "PRT-TS-007",
+    "study_id": "TS-007",
+    "title": "A Phase 1 study of TSX-107 in Metastatic breast cancer",
+    "phase": "Phase 1",
+    "visit_window_days": 3,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "1.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 56,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Metastatic breast cancer at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "1.0",
+    "effective": "2025-11-01"
+   },
+   {
+    "protocol_id": "PRT-TS-007",
+    "study_id": "TS-007",
+    "title": "A Phase 1 study of TSX-107 in Metastatic breast cancer",
+    "phase": "Phase 1",
+    "visit_window_days": 2,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "1.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 56,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Metastatic breast cancer at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "2.0",
+    "effective": "2026-07-15"
+   }
+  ]
+ },
+ {
+  "protocol_id": "PRT-TS-010",
+  "study_id": "TS-010",
+  "versions": [
+   {
+    "protocol_id": "PRT-TS-010",
+    "study_id": "TS-010",
+    "title": "A Phase 3 study of TSX-110 in Ulcerative colitis",
+    "phase": "Phase 3",
+    "visit_window_days": 7,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "1.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 15,
+    "dsmb": true,
+    "sample_size": 644,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Ulcerative colitis at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "1.0",
+    "effective": "2025-11-01"
+   },
+   {
+    "protocol_id": "PRT-TS-010",
+    "study_id": "TS-010",
+    "title": "A Phase 3 study of TSX-110 in Ulcerative colitis",
+    "phase": "Phase 3",
+    "visit_window_days": 7,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "2.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 644,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Ulcerative colitis at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "2.0",
+    "effective": "2026-07-15"
+   }
+  ]
+ },
+ {
+  "protocol_id": "PRT-TS-012",
+  "study_id": "TS-012",
+  "versions": [
+   {
+    "protocol_id": "PRT-TS-012",
+    "study_id": "TS-012",
+    "title": "A Phase 2 study of TSX-112 in Recurrent C. difficile infection",
+    "phase": "Phase 2",
+    "visit_window_days": 7,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "1.0",
+    "data_entry_days": 5,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 237,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Recurrent C. difficile infection at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening"
+    ],
+    "version": "1.0",
+    "effective": "2025-11-01"
+   },
+   {
+    "protocol_id": "PRT-TS-012",
+    "study_id": "TS-012",
+    "title": "A Phase 2 study of TSX-112 in Recurrent C. difficile infection",
+    "phase": "Phase 2",
+    "visit_window_days": 7,
+    "screening_period_days": 28,
+    "sae_reporting_hours": 24,
+    "consent_version": "2.0",
+    "data_entry_days": 7,
+    "query_resolution_business_days": 10,
+    "dsmb": false,
+    "sample_size": 237,
+    "primary_endpoint": "Change from baseline in the primary efficacy measure for Recurrent C. difficile infection at week 24",
+    "exclusions": [
+     "Participation in another interventional study within 30 days",
+     "Clinically significant laboratory abnormality at screening",
+     "Prior exposure to any GLP-1 receptor agonist within 90 days"
+    ],
+    "version": "2.0",
+    "effective": "2026-07-15"
+   }
+  ]
+ }
+]

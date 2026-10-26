@@ -1,0 +1,1756 @@
+[
+ {
+  "study_id": "TS-001",
+  "title": "A Phase 3 study of TSX-101 in Metastatic breast cancer",
+  "program": "TSX-101",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Oncology",
+  "indication": "Metastatic breast cancer",
+  "phase": "Phase 3",
+  "status": "Recruiting",
+  "cro": "In-house",
+  "target_enrollment": 908,
+  "enrolled": 271,
+  "start_date": "2025-10-01",
+  "planned_enrollment_end": "2028-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 21
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 18
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 20
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 26
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 26
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 34
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 24
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 26
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 17
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 23
+   }
+  ],
+  "regions": [
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": "PRT-TS-001"
+ },
+ {
+  "study_id": "TS-002",
+  "title": "A Phase 3 study of TSX-102 in Heart failure with reduced ejection fraction",
+  "program": "TSX-102",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Cardiology",
+  "indication": "Heart failure with reduced ejection fraction",
+  "phase": "Phase 3",
+  "status": "Recruiting",
+  "cro": "In-house",
+  "target_enrollment": 628,
+  "enrolled": 198,
+  "start_date": "2025-12-01",
+  "planned_enrollment_end": "2028-12-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 21
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 22
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 21
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 22
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 15
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 22
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 26
+   }
+  ],
+  "regions": [
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-003",
+  "title": "A Phase 2 study of TSX-103 in Migraine prevention",
+  "program": "TSX-103",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Neurology",
+  "indication": "Migraine prevention",
+  "phase": "Phase 2",
+  "status": "Recruiting",
+  "cro": "In-house",
+  "target_enrollment": 148,
+  "enrolled": 142,
+  "start_date": "2024-06-01",
+  "planned_enrollment_end": "2026-06-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 4
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 5
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 8
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe"
+  ],
+  "protocol_id": "PRT-TS-003"
+ },
+ {
+  "study_id": "TS-004",
+  "title": "A Phase 3 study of TSX-104 in Ulcerative colitis",
+  "program": "TSX-104",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Immunology",
+  "indication": "Ulcerative colitis",
+  "phase": "Phase 3",
+  "status": "Active, not recruiting",
+  "cro": "In-house",
+  "target_enrollment": 668,
+  "enrolled": 313,
+  "start_date": "2024-10-01",
+  "planned_enrollment_end": "2027-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 18
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 20
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 14
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 14
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Europe"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-005",
+  "title": "A Phase 3 study of TSX-105 in Type 2 diabetes",
+  "program": "TSX-105",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Metabolic",
+  "indication": "Type 2 diabetes",
+  "phase": "Phase 3",
+  "status": "Recruiting",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 1004,
+  "enrolled": 512,
+  "start_date": "2025-03-01",
+  "planned_enrollment_end": "2028-03-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 23
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 30
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 23
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 23
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 34
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 29
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 33
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 31
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 27
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 33
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 24
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 21
+   }
+  ],
+  "regions": [
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-006",
+  "title": "A Phase 2 study of TSX-106 in Recurrent C. difficile infection",
+  "program": "TSX-106",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Infectious Disease",
+  "indication": "Recurrent C. difficile infection",
+  "phase": "Phase 2",
+  "status": "Recruiting",
+  "cro": "In-house",
+  "target_enrollment": 240,
+  "enrolled": 206,
+  "start_date": "2024-12-01",
+  "planned_enrollment_end": "2026-12-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 8
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 7
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 10
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 9
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 10
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 15
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-007",
+  "title": "A Phase 1 study of TSX-107 in Metastatic breast cancer",
+  "program": "TSX-107",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Oncology",
+  "indication": "Metastatic breast cancer",
+  "phase": "Phase 1",
+  "status": "On Hold",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 56,
+  "enrolled": 45,
+  "start_date": "2025-02-01",
+  "planned_enrollment_end": "2026-04-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 2
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 2
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 1
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 2
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 3
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 2
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 2
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 2
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "North America"
+  ],
+  "protocol_id": "PRT-TS-007"
+ },
+ {
+  "study_id": "TS-008",
+  "title": "A Phase 3 study of TSX-108 in Heart failure with reduced ejection fraction",
+  "program": "TSX-108",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Cardiology",
+  "indication": "Heart failure with reduced ejection fraction",
+  "phase": "Phase 3",
+  "status": "Completed",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 504,
+  "enrolled": 504,
+  "start_date": "2025-04-01",
+  "planned_enrollment_end": "2028-04-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 12
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 9
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 14
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 10
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 15
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 20
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 25
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 27
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 21
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Europe",
+   "Latin America",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-009",
+  "title": "A Phase 2 study of TSX-109 in Migraine prevention",
+  "program": "TSX-109",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Neurology",
+  "indication": "Migraine prevention",
+  "phase": "Phase 2",
+  "status": "Completed",
+  "cro": "In-house",
+  "target_enrollment": 203,
+  "enrolled": 203,
+  "start_date": "2024-12-01",
+  "planned_enrollment_end": "2026-12-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 10
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 13
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 12
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 12
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Europe"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-010",
+  "title": "A Phase 3 study of TSX-110 in Ulcerative colitis",
+  "program": "TSX-110",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Immunology",
+  "indication": "Ulcerative colitis",
+  "phase": "Phase 3",
+  "status": "Active, not recruiting",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 644,
+  "enrolled": 520,
+  "start_date": "2024-07-01",
+  "planned_enrollment_end": "2027-07-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 22
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 28
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 26
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 26
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 12
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 24
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 25
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "North America"
+  ],
+  "protocol_id": "PRT-TS-010"
+ },
+ {
+  "study_id": "TS-011",
+  "title": "A Phase 3 study of TSX-111 in NASH",
+  "program": "TSX-111",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Metabolic",
+  "indication": "NASH",
+  "phase": "Phase 3",
+  "status": "Completed",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 417,
+  "enrolled": 417,
+  "start_date": "2025-10-01",
+  "planned_enrollment_end": "2028-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 9
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 10
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 12
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 9
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 10
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 10
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-012",
+  "title": "A Phase 2 study of TSX-112 in Recurrent C. difficile infection",
+  "program": "TSX-112",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Infectious Disease",
+  "indication": "Recurrent C. difficile infection",
+  "phase": "Phase 2",
+  "status": "Planning",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 237,
+  "enrolled": 0,
+  "start_date": "2025-11-01",
+  "planned_enrollment_end": "2027-11-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "North America"
+  ],
+  "protocol_id": "PRT-TS-012"
+ },
+ {
+  "study_id": "TS-013",
+  "title": "A Phase 3 study of TSX-113 in Non-small cell lung cancer",
+  "program": "TSX-113",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Oncology",
+  "indication": "Non-small cell lung cancer",
+  "phase": "Phase 3",
+  "status": "Active, not recruiting",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 840,
+  "enrolled": 433,
+  "start_date": "2025-03-01",
+  "planned_enrollment_end": "2028-03-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 23
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 27
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 42
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 27
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 23
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 18
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 32
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 27
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 15
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-014",
+  "title": "A Phase 1 study of TSX-114 in Resistant hypertension",
+  "program": "TSX-114",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Cardiology",
+  "indication": "Resistant hypertension",
+  "phase": "Phase 1",
+  "status": "Recruiting",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 50,
+  "enrolled": 50,
+  "start_date": "2024-08-01",
+  "planned_enrollment_end": "2025-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 2
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 5
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 3
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 5
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 5
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 8
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-015",
+  "title": "A Phase 2 study of TSX-115 in Migraine prevention",
+  "program": "TSX-115",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Neurology",
+  "indication": "Migraine prevention",
+  "phase": "Phase 2",
+  "status": "Recruiting",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 271,
+  "enrolled": 271,
+  "start_date": "2024-08-01",
+  "planned_enrollment_end": "2026-08-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 16
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 7
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 17
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 9
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 13
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 9
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Latin America",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-016",
+  "title": "A Phase 3 study of TSX-116 in Ulcerative colitis",
+  "program": "TSX-116",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Immunology",
+  "indication": "Ulcerative colitis",
+  "phase": "Phase 3",
+  "status": "Planning",
+  "cro": "In-house",
+  "target_enrollment": 1153,
+  "enrolled": 0,
+  "start_date": "2024-10-01",
+  "planned_enrollment_end": "2027-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Europe"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-017",
+  "title": "A Phase 3 study of TSX-117 in Obesity",
+  "program": "TSX-117",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Metabolic",
+  "indication": "Obesity",
+  "phase": "Phase 3",
+  "status": "Recruiting",
+  "cro": "In-house",
+  "target_enrollment": 1139,
+  "enrolled": 691,
+  "start_date": "2025-06-01",
+  "planned_enrollment_end": "2028-06-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 53
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 40
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 62
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 45
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 29
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 34
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 51
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 46
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 37
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 41
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 34
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 45
+   }
+  ],
+  "regions": [
+   "Europe"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-018",
+  "title": "A Phase 2 study of TSX-118 in RSV in older adults",
+  "program": "TSX-118",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Infectious Disease",
+  "indication": "RSV in older adults",
+  "phase": "Phase 2",
+  "status": "Recruiting",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 199,
+  "enrolled": 135,
+  "start_date": "2025-04-01",
+  "planned_enrollment_end": "2027-04-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 9
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 8
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 10
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 8
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 9
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 10
+   }
+  ],
+  "regions": [
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-019",
+  "title": "A Phase 3 study of TSX-119 in Colorectal cancer",
+  "program": "TSX-119",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Oncology",
+  "indication": "Colorectal cancer",
+  "phase": "Phase 3",
+  "status": "On Hold",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 451,
+  "enrolled": 303,
+  "start_date": "2024-06-01",
+  "planned_enrollment_end": "2027-06-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 10
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 10
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 16
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 11
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 12
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Europe",
+   "Latin America",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-020",
+  "title": "A Phase 3 study of TSX-120 in Resistant hypertension",
+  "program": "TSX-120",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Cardiology",
+  "indication": "Resistant hypertension",
+  "phase": "Phase 3",
+  "status": "Active, not recruiting",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 1131,
+  "enrolled": 176,
+  "start_date": "2025-12-01",
+  "planned_enrollment_end": "2028-12-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 16
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 24
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 22
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 27
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 23
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 19
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 45
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-021",
+  "title": "A Phase 1 study of TSX-121 in Migraine prevention",
+  "program": "TSX-121",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Neurology",
+  "indication": "Migraine prevention",
+  "phase": "Phase 1",
+  "status": "Active, not recruiting",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 54,
+  "enrolled": 34,
+  "start_date": "2025-08-01",
+  "planned_enrollment_end": "2026-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 4
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 1
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 2
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 3
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 2
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 3
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Europe"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-022",
+  "title": "A Phase 3 study of TSX-122 in Ulcerative colitis",
+  "program": "TSX-122",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Immunology",
+  "indication": "Ulcerative colitis",
+  "phase": "Phase 3",
+  "status": "Recruiting",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 839,
+  "enrolled": 839,
+  "start_date": "2024-04-01",
+  "planned_enrollment_end": "2027-04-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 28
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 39
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 34
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 30
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 29
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 23
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 29
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 32
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 28
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 30
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 32
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 38
+   }
+  ],
+  "regions": [
+   "Europe",
+   "Latin America",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-023",
+  "title": "A Phase 3 study of TSX-123 in Obesity",
+  "program": "TSX-123",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Metabolic",
+  "indication": "Obesity",
+  "phase": "Phase 3",
+  "status": "Planning",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 1058,
+  "enrolled": 0,
+  "start_date": "2025-12-01",
+  "planned_enrollment_end": "2028-12-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 0
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 0
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 0
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "Latin America",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-024",
+  "title": "A Phase 2 study of TSX-124 in Recurrent C. difficile infection",
+  "program": "TSX-124",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Infectious Disease",
+  "indication": "Recurrent C. difficile infection",
+  "phase": "Phase 2",
+  "status": "Recruiting",
+  "cro": "Meridian CRO (fictional)",
+  "target_enrollment": 190,
+  "enrolled": 70,
+  "start_date": "2025-10-01",
+  "planned_enrollment_end": "2027-10-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 4
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 8
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 7
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 4
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 6
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 7
+   }
+  ],
+  "regions": [
+   "Asia Pacific",
+   "Europe",
+   "Latin America",
+   "North America"
+  ],
+  "protocol_id": null
+ },
+ {
+  "study_id": "TS-025",
+  "title": "A Phase 3 study of TSX-125 in Non-small cell lung cancer",
+  "program": "TSX-125",
+  "sponsor": "Synthetica Bio (fictional sponsor)",
+  "therapeutic_area": "Oncology",
+  "indication": "Non-small cell lung cancer",
+  "phase": "Phase 3",
+  "status": "Recruiting",
+  "cro": "Halcyon Research Partners (fictional)",
+  "target_enrollment": 1104,
+  "enrolled": 382,
+  "start_date": "2025-09-01",
+  "planned_enrollment_end": "2028-09-01",
+  "monthly_enrollment": [
+   {
+    "month": "2025-10",
+    "enrolled": 27
+   },
+   {
+    "month": "2025-11",
+    "enrolled": 32
+   },
+   {
+    "month": "2025-12",
+    "enrolled": 26
+   },
+   {
+    "month": "2026-01",
+    "enrolled": 31
+   },
+   {
+    "month": "2026-02",
+    "enrolled": 33
+   },
+   {
+    "month": "2026-03",
+    "enrolled": 35
+   },
+   {
+    "month": "2026-04",
+    "enrolled": 29
+   },
+   {
+    "month": "2026-05",
+    "enrolled": 25
+   },
+   {
+    "month": "2026-06",
+    "enrolled": 23
+   },
+   {
+    "month": "2026-07",
+    "enrolled": 39
+   },
+   {
+    "month": "2026-08",
+    "enrolled": 27
+   },
+   {
+    "month": "2026-09",
+    "enrolled": 27
+   }
+  ],
+  "regions": [
+   "Europe"
+  ],
+  "protocol_id": null
+ }
+]

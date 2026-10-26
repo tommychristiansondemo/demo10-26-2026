@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TrialScout</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="logo" aria-hidden="true">TS</span><div><strong>TrialScout</strong><small>Clinical-trial operations copilot</small></div></div>
+    <a class="insights-link" id="insightsLink" href="https://insights.awsteach.com/" target="_blank" rel="noopener">Class Insights: how this app works &#8599;</a>
+    <div class="user" id="user" hidden>
+      <span id="userName"></span><span class="badge" id="roleBadge"></span>
+      <button class="ghost" id="newChat" type="button">New chat</button>
+      <button class="ghost" id="signOut" type="button">Sign out</button>
+    </div>
+  </header>
+  <div class="banner">Demo built on <strong>Amazon Bedrock AgentCore</strong>. All studies, sites, SOPs and protocols are synthetic. Do not enter real patient or personal data.</div>
+
+  <main id="login" class="login" hidden>
+    <h1>Sign in to TrialScout</h1>
+    <p>Ask about the study portfolio, site performance, enrollment forecasts and protocol compliance. Sign in, or create your own account and choose a role.</p>
+    <form id="authForm" class="authform" autocomplete="on">
+      <label>Username <input id="authUser" name="username" autocomplete="username" required minlength="3" maxlength="32" pattern="[A-Za-z0-9_.\-]{3,32}" title="3-32 letters, digits, . _ -"></label>
+      <label>Password <input id="authPass" name="password" type="password" autocomplete="current-password" required minlength="6" title="At least 6 characters"></label>
+      <fieldset class="roles"><legend>Role, if you are creating a new account</legend>
+        <label><input type="radio" name="role" value="analyst" checked> <b>analyst</b>: all six TrialScout tools (adds enrollment forecasts, compliance checks, amendment summaries)</label>
+        <label><input type="radio" name="role" value="reader"> <b>reader</b>: search-only tools (studies, site KPIs, documents)</label>
+      </fieldset>
+      <div class="row"><button type="submit" id="loginBtn">Sign in</button><button type="button" class="ghost" id="signupBtn">Create account</button></div>
+    </form>
+    <p class="hint">No e-mail or MFA needed. Your role is fixed when the account is created: to try the other role, create a second account. Or <a href="#" id="signIn">use the Cognito hosted sign-in page</a>.</p>
+    <p class="err" id="loginError" hidden></p>
+    <p class="ok" id="loginInfo" hidden></p>
+    <p class="hint">Curious how it is built? <a href="https://insights.awsteach.com/" target="_blank" rel="noopener">Open TrialScout Insights</a>: architecture, live inventory, logs, LLM reasoning, and a chatbot that answers questions about this deployment.</p>
+    <p class="err" id="loginError" hidden></p>
+  </main>
+
+  <main id="chat" class="chat" hidden>
+    <section id="messages" class="messages" aria-live="polite"></section>
+    <div id="suggestions" class="suggestions"></div>
+    <form id="composer" class="composer">
+      <textarea id="prompt" rows="2" maxlength="4000" placeholder="Ask about studies, sites, enrollment or SOP compliance..." required></textarea>
+      <button id="send" type="submit">Send</button>
+    </form>
+  </main>
+</body>
+</html>

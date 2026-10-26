@@ -1,0 +1,77 @@
+[
+ {
+  "rule_id": "IC-1",
+  "sop": "SOP-001",
+  "field": "consent_version",
+  "op": "version_gte",
+  "value": "2.0",
+  "when": "amended",
+  "text": "Amended protocols must reference consent version 2.0 or higher."
+ },
+ {
+  "rule_id": "SR-1",
+  "sop": "SOP-002",
+  "field": "sae_reporting_hours",
+  "op": "lte",
+  "value": 24,
+  "text": "SAEs must be reported within 24 hours."
+ },
+ {
+  "rule_id": "VW-1",
+  "sop": "SOP-003",
+  "field": "visit_window_days",
+  "op": "lte",
+  "value": 3,
+  "phase": [
+   "Phase 1"
+  ],
+  "text": "Phase 1 visit windows may not exceed +/-3 days."
+ },
+ {
+  "rule_id": "VW-2",
+  "sop": "SOP-003",
+  "field": "visit_window_days",
+  "op": "lte",
+  "value": 7,
+  "phase": [
+   "Phase 2",
+   "Phase 3"
+  ],
+  "text": "Phase 2/3 visit windows may not exceed +/-7 days."
+ },
+ {
+  "rule_id": "ES-1",
+  "sop": "SOP-004",
+  "field": "screening_period_days",
+  "op": "lte",
+  "value": 28,
+  "text": "Screening period may not exceed 28 days."
+ },
+ {
+  "rule_id": "DM-1",
+  "sop": "SOP-005",
+  "field": "data_entry_days",
+  "op": "lte",
+  "value": 5,
+  "text": "eCRF data entry within 5 days of the visit."
+ },
+ {
+  "rule_id": "DM-2",
+  "sop": "SOP-005",
+  "field": "query_resolution_business_days",
+  "op": "lte",
+  "value": 10,
+  "text": "Queries resolved within 10 business days."
+ },
+ {
+  "rule_id": "PA-2",
+  "sop": "SOP-007",
+  "field": "dsmb",
+  "op": "eq",
+  "value": true,
+  "phase": [
+   "Phase 3"
+  ],
+  "text": "Phase 3 protocols must name an independent DSMB."
+ }
+]
